@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B2FF66&height=250&section=header&text=Welcome!%20&fontSize=80&fontAlign=28&fontAlignY=42&fontColor=ffffff)
 
+<h2>Studing Back-End</h2>
+
 <div align="center">
     <h3>Skills</h3>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -23,6 +25,7 @@
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <div>
 
+<br></br>
 <div align="center">
     <a href="https://github.com/kuna00144"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=kuna00144&show_icons=true&theme=buefy"/></a>
     <a href="https://github.com/kuna00144"><img align="center" style="width:300px; height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuna00144&layout=compact&theme=highcontrast"/></a>
