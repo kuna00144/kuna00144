@@ -23,6 +23,7 @@
 <div>
 
 <div align="center">
-    ![kuna00144's github stats](https://github-readme-stats.vercel.app/api?username=kuna00144&show_icons=true)
+    <a href="https://github.com/kuna00144"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=kuna00144&show_icons=true&theme=buefy"/></a>
+    <a href="https://github.com/kuna00144"><img align="center" style="width:300px; height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuna00144&layout=compact&theme=highcontrast"/></a>
 <div>
     
