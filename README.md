@@ -5,7 +5,7 @@
 <div align="center">
     <h3>Skills</h3>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
 <div align="center">
