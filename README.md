@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B2FF66&height=250&section=header&text=Welcome!%20&fontSize=80&fontAlign=28&fontAlignY=42&fontColor=ffffff)
 
-<h2>Studing Back-End</h2>
+<h2>Study Coding</h2>
 
 <div align="center">
     <h3>Skills</h3>
