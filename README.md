@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2FF66&height=250&section=header&text=Welcome!&fontSize=80&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0F2027,50:203A43,100:2C5364&text=Geon-a%20Lee&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Aspiring%20Finance%20Developer&descSize=18&descAlignY=66&descColor=9CC9E8)
 
 <h3>이건아 (kuna00144)</h3>
-<p>영상처리와 로봇, 데이터 분석을 공부하고 직접 만들어 보는 개발자입니다.</p>
+<p>현재는 <b>금융 개발자</b>가 되기 위해 공부하고 있습니다.<br/>영상처리와 로봇, 데이터 분석 프로젝트를 직접 만들어 본 경험이 있습니다.</p>
 
 <img src="https://img.shields.io/github/followers/kuna00144?style=for-the-badge&logo=github&color=181717"/>
 
@@ -34,7 +34,6 @@
 |---|---|
 | 학부 연구 | 이미지 기반 포즈 추정에서 해상도와 노이즈에 따른 모델 성능 변화 분석 (학부연구생, 학부 논문) |
 | 학술 발표 | ACK 2023 포스터 논문 (캥거루 로봇, 공동) |
-| 특허 출원 | 재난지역 탐지시스템 (공동) |
 | 프로그램 등록 | 재난 지역 탐사용 로봇 프로그램 (공동) |
 
 <br/>
@@ -68,11 +67,11 @@
 <h2>📊 GitHub</h2>
 
 <a href="https://github.com/kuna00144">
-  <img src="https://ghchart.rshah.org/B2FF66/kuna00144" alt="contribution graph" width="90%"/>
+  <img src="https://ghchart.rshah.org/58A6FF/kuna00144" alt="contribution graph" width="90%"/>
 </a>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=B2FF66&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0F2027,50:203A43,100:2C5364&section=footer)
 
 </div>
