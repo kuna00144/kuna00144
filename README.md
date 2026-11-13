@@ -64,14 +64,6 @@
 
 <br/>
 
-<h2>📊 GitHub</h2>
-
-<a href="https://github.com/kuna00144">
-  <img src="https://ghchart.rshah.org/58A6FF/kuna00144" alt="contribution graph" width="90%"/>
-</a>
-
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0F2027,50:203A43,100:2C5364&section=footer)
 
 </div>
